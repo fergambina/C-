@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\C#\POO\ejemplo2\obj\Debug\ejemplo2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\C#\POO\ejemplo2\obj\Debug\ejemplo2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\POO\ejemplo2\bin\Debug\ejemplo2.exe.config
+C:\Users\Usuario\Desktop\C#\POO\ejemplo2\bin\Debug\ejemplo2.exe
+C:\Users\Usuario\Desktop\C#\POO\ejemplo2\bin\Debug\ejemplo2.pdb
+C:\Users\Usuario\Desktop\C#\POO\ejemplo2\obj\Debug\ejemplo2.exe
+C:\Users\Usuario\Desktop\C#\POO\ejemplo2\obj\Debug\ejemplo2.pdb
