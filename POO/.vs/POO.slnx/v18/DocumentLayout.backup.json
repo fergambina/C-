@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\C#\\POO1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB58F0A3-B5CA-4857-9787-547CF7A2562F}|ejemplo1\\ejemplo1.csproj|c:\\users\\usuario\\desktop\\c#\\poo1\\ejemplo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB58F0A3-B5CA-4857-9787-547CF7A2562F}|ejemplo1\\ejemplo1.csproj|solutionrelative:ejemplo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB58F0A3-B5CA-4857-9787-547CF7A2562F}|ejemplo1\\ejemplo1.csproj|C:\\Users\\Usuario\\Desktop\\C#\\POO1\\ejemplo1\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB58F0A3-B5CA-4857-9787-547CF7A2562F}|ejemplo1\\ejemplo1.csproj|solutionrelative:ejemplo1\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB58F0A3-B5CA-4857-9787-547CF7A2562F}|ejemplo1\\ejemplo1.csproj|C:\\Users\\Usuario\\Desktop\\C#\\POO1\\ejemplo1\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB58F0A3-B5CA-4857-9787-547CF7A2562F}|ejemplo1\\ejemplo1.csproj|solutionrelative:ejemplo1\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB58F0A3-B5CA-4857-9787-547CF7A2562F}|ejemplo1\\ejemplo1.csproj|C:\\Users\\Usuario\\Desktop\\C#\\POO1\\ejemplo1\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB58F0A3-B5CA-4857-9787-547CF7A2562F}|ejemplo1\\ejemplo1.csproj|solutionrelative:ejemplo1\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB58F0A3-B5CA-4857-9787-547CF7A2562F}|ejemplo1\\ejemplo1.csproj|C:\\Users\\Usuario\\Desktop\\C#\\POO1\\ejemplo1\\botella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB58F0A3-B5CA-4857-9787-547CF7A2562F}|ejemplo1\\ejemplo1.csproj|solutionrelative:ejemplo1\\botella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB58F0A3-B5CA-4857-9787-547CF7A2562F}|ejemplo1\\ejemplo1.csproj|C:\\Users\\Usuario\\Desktop\\C#\\POO1\\ejemplo1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB58F0A3-B5CA-4857-9787-547CF7A2562F}|ejemplo1\\ejemplo1.csproj|solutionrelative:ejemplo1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO1\\ejemplo1\\Persona.cs",
+              "RelativeDocumentMoniker": "ejemplo1\\Persona.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\C#\\POO1\\ejemplo1\\Persona.cs",
+              "RelativeToolTip": "ejemplo1\\Persona.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:24:44.49Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Botella.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO1\\ejemplo1\\Botella.cs",
+              "RelativeDocumentMoniker": "ejemplo1\\Botella.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\C#\\POO1\\ejemplo1\\Botella.cs",
+              "RelativeToolTip": "ejemplo1\\Botella.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:59:16.925Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Perro.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO1\\ejemplo1\\Perro.cs",
+              "RelativeDocumentMoniker": "ejemplo1\\Perro.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\C#\\POO1\\ejemplo1\\Perro.cs",
+              "RelativeToolTip": "ejemplo1\\Perro.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:18:53.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO1\\ejemplo1\\Articulo.cs",
+              "RelativeDocumentMoniker": "ejemplo1\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\C#\\POO1\\ejemplo1\\Articulo.cs",
+              "RelativeToolTip": "ejemplo1\\Articulo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T02:14:31.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO1\\ejemplo1\\Venta.cs",
+              "RelativeDocumentMoniker": "ejemplo1\\Venta.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\C#\\POO1\\ejemplo1\\Venta.cs",
+              "RelativeToolTip": "ejemplo1\\Venta.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:17:41.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO1\\ejemplo1\\Program.cs",
+              "RelativeDocumentMoniker": "ejemplo1\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\C#\\POO1\\ejemplo1\\Program.cs",
+              "RelativeToolTip": "ejemplo1\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAEIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:16:03.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
