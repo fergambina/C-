@@ -7,17 +7,78 @@ using System.Threading.Tasks;
 namespace ejemplo1
 {
     internal class Botella
-    {
-        //Botella: Esta clase representa una botella con propiedades como capacidad, color y material.
-        private int capacidad; //Capacidad de la botella en litros
-        private string color;   //Color de la botella
-        private string material; //Material de la botella (plástico, vidrio, etc.)
+    {   
+        //Capacidad Maxima = 100
+        //cantidadActual = inicia en cero
+        //Metodo recarga: carga al 100 y devuelve el costo de recargar. 50 de 100
 
-        //Propiedad:
-        public int Capacidad 
+        //Constructor
+        public Botella(string color, string material) 
+        {
+            this.color = color;
+            this.material = material;
+            capacidad = 100;
+            cantidadActual = 0;
+        }
+        //Sobrecargar el constructor
+        public Botella() { }
+
+        ~ Botella() { 
+            //Codigo que necesite...
+        }
+
+        //Defincion de la clase
+        private int capacidad; 
+        private string color;   
+        private string material; 
+        private int cantidadActual;   
+
+        public int Capacidad
         {
             get { return capacidad; }
-            set { capacidad = value;  }
         }
+        
+        public string Color
+        {
+            get { return color; }
+        }
+
+        public string Material
+        {
+            get { return material; }
+        }
+
+        public int CantidadActual
+        {
+            get { return cantidadActual; }
+        }
+
+        //public int Capacidad 
+        //{
+          //  get { return capacidad; }
+            //set { capacidad = value;  }
+        //}
+
+        //Metodos o comportamientos de la botella:
+        public float recargar()
+        {
+            if(cantidadActual > 0)
+            {
+                int dif = capacidad - cantidadActual;
+                float monto = dif * 50 / 100;
+                cantidadActual += dif;
+                return monto;
+            }
+            cantidadActual = 100;
+            return 50;
+        }
+
+        public float recargar(int cantidad)
+        {
+            cantidadActual += cantidad;
+            return cantidad * 50 / 100;
+        }
+
+
     }
 }

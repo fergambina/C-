@@ -1,0 +1,45 @@
+### USER
+Que son los metodos en POO? C#
+
+### ASSISTANT
+Estimado Fernando,
+
+En programación orientada a objetos (POO), los **métodos** son funciones o procedimientos que pertenecen a una clase y definen el comportamiento de los objetos de esa clase. Los métodos permiten que los objetos realicen acciones o manipulen su estado interno (atributos).
+
+En el contexto de **C#**, un método se define dentro de una clase y puede realizar tareas específicas cuando se lo llama o invoca. Los métodos pueden recibir parámetros, ejecutar instrucciones y devolver un valor (o no devolver ninguno, en cuyo caso se declara como `void`).
+
+### Componentes de un método en C#:
+- **Modificador de acceso**: Define desde dónde puede accederse al método (por ejemplo, `public`, `private`, `protected`, etc.).
+- **Tipo de retorno**: Indica qué tipo de valor devuelve el método (por ejemplo, `int`, `string`, `bool`, o `void` si no devuelve nada).
+- **Nombre del método**: Identificador que se usa para llamar al método.
+- **Parámetros**: Valores que se pueden pasar al método para que los utilice en su lógica (opcional).
+- **Cuerpo del método**: Bloque de código que contiene las instrucciones que se ejecutarán.
+
+### Ejemplo sencillo en C#:
+
+```csharp
+public class Calculadora
+{
+    // Método que suma dos números enteros
+    public int Sumar(int a, int b)
+    {
+        return a + b;
+    }
+
+    // Método que imprime un mensaje
+    public void Saludar(string nombre)
+    {
+        Console.WriteLine("Hola, " + nombre);
+    }
+}
+```
+
+En este ejemplo:
+- `Sumar` es un método que recibe dos parámetros de tipo `int` y devuelve un valor de tipo `int`.
+- `Saludar` es un método que recibe un parámetro de tipo `string` y no devuelve ningún valor (`void`).
+
+Los métodos son fundamentales en POO porque permiten encapsular la lógica, reutilizar código y facilitar la lectura y mantenimiento del mismo.
+
+¿Desea que le proporcione ejemplos más avanzados o información sobre sobrecarga de métodos?
+
+Atentamente.

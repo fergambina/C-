@@ -14,15 +14,31 @@ namespace ejemplo1
         private float sueldo;
         private string nombre;
 
+        //Constructor: 
+        public Persona(string nombre)
+        {
+            this.nombre = nombre;
+        }
         public void setEdad(int e)
         {
-            edad = e;   //Le asigna el valor del parámetro e al atributo edad   
+            edad = e;    
         }
 
         public int getEdad()
         {
-            return edad; //Devuelve el valor del atributo edad
+            return edad; 
 
+        }
+
+        //Metodos
+        public string saludar()
+        {
+            return "Hola, soy " + nombre;
+        }
+
+        public string saludar(string personaje)
+        {
+            return "Hola " + personaje + ", soy " + nombre;
         }
     }
 }

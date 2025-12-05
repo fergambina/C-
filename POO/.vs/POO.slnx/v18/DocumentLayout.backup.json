@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B8B0E87-44FF-422F-A08A-5252535A8285}|ejemplo2\\ejemplo2.csproj|c:\\users\\usuario\\desktop\\c#\\poo\\ejemplo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B8B0E87-44FF-422F-A08A-5252535A8285}|ejemplo2\\ejemplo2.csproj|solutionrelative:ejemplo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17BB4DC8-8BA6-4C0F-AC15-06A4C186FAE8}|herencia2\\herencia2.csproj|c:\\users\\usuario\\desktop\\c#\\poo\\herencia2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB4DC8-8BA6-4C0F-AC15-06A4C186FAE8}|herencia2\\herencia2.csproj|solutionrelative:herencia2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B8B0E87-44FF-422F-A08A-5252535A8285}|ejemplo2\\ejemplo2.csproj|c:\\users\\usuario\\desktop\\c#\\poo\\ejemplo2\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B8B0E87-44FF-422F-A08A-5252535A8285}|ejemplo2\\ejemplo2.csproj|solutionrelative:ejemplo2\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17BB4DC8-8BA6-4C0F-AC15-06A4C186FAE8}|herencia2\\herencia2.csproj|c:\\users\\usuario\\desktop\\c#\\poo\\herencia2\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB4DC8-8BA6-4C0F-AC15-06A4C186FAE8}|herencia2\\herencia2.csproj|solutionrelative:herencia2\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B8B0E87-44FF-422F-A08A-5252535A8285}|ejemplo2\\ejemplo2.csproj|c:\\users\\usuario\\desktop\\c#\\poo\\ejemplo2\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B8B0E87-44FF-422F-A08A-5252535A8285}|ejemplo2\\ejemplo2.csproj|solutionrelative:ejemplo2\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17BB4DC8-8BA6-4C0F-AC15-06A4C186FAE8}|herencia2\\herencia2.csproj|c:\\users\\usuario\\desktop\\c#\\poo\\herencia2\\autodeportivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB4DC8-8BA6-4C0F-AC15-06A4C186FAE8}|herencia2\\herencia2.csproj|solutionrelative:herencia2\\autodeportivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB4DC8-8BA6-4C0F-AC15-06A4C186FAE8}|herencia2\\herencia2.csproj|c:\\users\\usuario\\desktop\\c#\\poo\\herencia2\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB4DC8-8BA6-4C0F-AC15-06A4C186FAE8}|herencia2\\herencia2.csproj|solutionrelative:herencia2\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB4DC8-8BA6-4C0F-AC15-06A4C186FAE8}|herencia2\\herencia2.csproj|c:\\users\\usuario\\desktop\\c#\\poo\\herencia2\\autourbano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB4DC8-8BA6-4C0F-AC15-06A4C186FAE8}|herencia2\\herencia2.csproj|solutionrelative:herencia2\\autourbano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB4DC8-8BA6-4C0F-AC15-06A4C186FAE8}|herencia2\\herencia2.csproj|c:\\users\\usuario\\desktop\\c#\\poo\\herencia2\\camioneta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB4DC8-8BA6-4C0F-AC15-06A4C186FAE8}|herencia2\\herencia2.csproj|solutionrelative:herencia2\\camioneta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB4DC8-8BA6-4C0F-AC15-06A4C186FAE8}|herencia2\\herencia2.csproj|c:\\users\\usuario\\desktop\\c#\\poo\\herencia2\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB4DC8-8BA6-4C0F-AC15-06A4C186FAE8}|herencia2\\herencia2.csproj|solutionrelative:herencia2\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Venta.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\ejemplo2\\Venta.cs",
-              "RelativeDocumentMoniker": "ejemplo2\\Venta.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\ejemplo2\\Venta.cs",
-              "RelativeToolTip": "ejemplo2\\Venta.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AutoDeportivo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia2\\AutoDeportivo.cs",
+              "RelativeDocumentMoniker": "herencia2\\AutoDeportivo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia2\\AutoDeportivo.cs",
+              "RelativeToolTip": "herencia2\\AutoDeportivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T14:37:12.478Z",
+              "WhenOpened": "2025-12-05T14:28:54.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Articulo.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\ejemplo2\\Articulo.cs",
-              "RelativeDocumentMoniker": "ejemplo2\\Articulo.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\ejemplo2\\Articulo.cs",
-              "RelativeToolTip": "ejemplo2\\Articulo.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AutoUrbano.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia2\\AutoUrbano.cs",
+              "RelativeDocumentMoniker": "herencia2\\AutoUrbano.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia2\\AutoUrbano.cs",
+              "RelativeToolTip": "herencia2\\AutoUrbano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T13:59:33.763Z",
+              "WhenOpened": "2025-12-05T14:28:43.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia2\\Auto.cs",
+              "RelativeDocumentMoniker": "herencia2\\Auto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia2\\Auto.cs",
+              "RelativeToolTip": "herencia2\\Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:28:00.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia2\\Moto.cs",
+              "RelativeDocumentMoniker": "herencia2\\Moto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia2\\Moto.cs",
+              "RelativeToolTip": "herencia2\\Moto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:27:43.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Camioneta.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia2\\Camioneta.cs",
+              "RelativeDocumentMoniker": "herencia2\\Camioneta.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia2\\Camioneta.cs",
+              "RelativeToolTip": "herencia2\\Camioneta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:27:30.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia2\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "herencia2\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia2\\Vehiculo.cs",
+              "RelativeToolTip": "herencia2\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:27:02.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\ejemplo2\\Program.cs",
-              "RelativeDocumentMoniker": "ejemplo2\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\ejemplo2\\Program.cs",
-              "RelativeToolTip": "ejemplo2\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia2\\Program.cs",
+              "RelativeDocumentMoniker": "herencia2\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia2\\Program.cs",
+              "RelativeToolTip": "herencia2\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T13:53:32.793Z",
+              "WhenOpened": "2025-12-05T14:22:27.959Z",
               "EditorCaption": ""
             }
           ]
