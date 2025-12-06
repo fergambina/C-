@@ -1,0 +1,78 @@
+### USER
+Que es un metodo? Que es la sobreescritura de metodos? En C# con .NET Framework
+
+### ASSISTANT
+Estimado Fernando,
+
+A continuación, le proporciono las definiciones solicitadas en el contexto de C# con .NET Framework:
+
+**Método:**
+
+Un *método* es un bloque de código que encapsula una funcionalidad específica dentro de una clase. Se define mediante un nombre, una lista de parámetros (opcional) y un tipo de valor de retorno (también opcional, puede ser `void` si no devuelve nada). Los métodos permiten reutilizar código y estructurar la lógica de un programa de forma organizada.
+
+Ejemplo de un método simple en C#:
+
+```csharp
+public class Calculadora
+{
+    public int Sumar(int a, int b)
+    {
+        return a + b;
+    }
+}
+```
+
+**Sobreescritura de Métodos (Method Overriding):**
+
+La *sobreescritura de métodos* es un mecanismo en programación orientada a objetos que permite a una clase derivada (hija) proporcionar una implementación específica de un método que ya está definido en su clase base (padre). Para que un método pueda ser sobreescrito, debe estar declarado como `virtual` en la clase base y luego redefinido en la clase derivada usando la palabra clave `override`.
+
+Este mecanismo es fundamental para lograr el polimorfismo, ya que permite que una instancia de la clase derivada sea tratada como si fuera de la clase base, pero ejecutando el comportamiento específico de la clase derivada.
+
+Ejemplo de sobreescritura de métodos en C#:
+
+```csharp
+using System;
+
+public class Animal
+{
+    public virtual void HacerSonido()
+    {
+        Console.WriteLine("El animal hace un sonido");
+    }
+}
+
+public class Perro : Animal
+{
+    public override void HacerSonido()
+    {
+        Console.WriteLine("El perro ladra");
+    }
+}
+
+public class Gato : Animal
+{
+    public override void HacerSonido()
+    {
+        Console.WriteLine("El gato maúlla");
+    }
+}
+
+// Uso
+class Program
+{
+    static void Main()
+    {
+        Animal miPerro = new Perro();
+        Animal miGato = new Gato();
+
+        miPerro.HacerSonido(); // Imprime: "El perro ladra"
+        miGato.HacerSonido();  // Imprime: "El gato maúlla"
+    }
+}
+```
+
+En este ejemplo, el método `HacerSonido` es sobreescrito en las clases `Perro` y `Gato`, permitiendo que cada tipo de animal tenga un comportamiento específico, a pesar de ser tratados como instancias de la clase base `Animal`.
+
+Quedo atento a cualquier consulta adicional.
+
+Atentamente.

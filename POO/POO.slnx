@@ -4,4 +4,5 @@
   <Project Path="ejercicio1/ejercicio1.csproj" Id="d6c4315b-43f6-45bf-a85e-68a2a4be78cb" />
   <Project Path="herencia/herencia.csproj" Id="d67a2ffe-7d84-4700-a3da-695ce23da933" />
   <Project Path="herencia2/herencia2.csproj" Id="17bb4dc8-8ba6-4c0f-ac15-06a4c186fae8" />
+  <Project Path="herencia3/herencia3.csproj" Id="5747337d-ec58-4ef5-ba28-fcfcde365420" />
 </Solution>
