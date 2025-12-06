@@ -40,6 +40,24 @@ namespace herencia3
             }
 
             Console.WriteLine("La cantidad de animales al final es: " + animales.Count);
+            Console.WriteLine("");
+
+            //Listado de animales que pueden volar...
+            List<Flyable> animalesVoladores = new List<Flyable>();
+            animalesVoladores.Add(new Canario());
+            animalesVoladores.Add(new Canario());
+            animalesVoladores.Add(new Aguila());
+            Console.WriteLine("La cantidad de animales voladores al momento es: " + animalesVoladores.Count);
+
+            foreach (Flyable item in animalesVoladores)
+            {
+                Console.WriteLine(item.volar());
+            }
+
+            animalesVoladores.Remove(animalesVoladores[1]);
+            animalesVoladores.Remove(animalesVoladores[1]); //Aca se borraria el aguila ya que el indice 2 pasa al 1. Esta mal hacer animalesVoladores.Remove(animalesVoladores[2]);
+
+            Console.WriteLine("La cantidad de animales volares al final es: " + animalesVoladores.Count);
 
             Console.ReadKey();
 
