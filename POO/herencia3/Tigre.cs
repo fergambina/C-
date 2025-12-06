@@ -8,9 +8,9 @@ namespace herencia3
 {
     internal class Tigre : AnimalSalvaje
     {
-        public override void comunicarse()
+        public override string comunicarse()
         {
-            Console.WriteLine("Ggg...ggg...ggg");
+            return "Ggg...ggg...ggg";
         }
     }
 }

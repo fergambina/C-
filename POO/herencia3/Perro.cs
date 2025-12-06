@@ -8,9 +8,9 @@ namespace herencia3
 {
     internal class Perro : AnimalDomestico
     {
-        public override void comunicarse()
+        public override string comunicarse()
         {
-            Console.WriteLine("Guau...guau..guau");
+            return "Guau...guau..guau";
         }
     }
 }

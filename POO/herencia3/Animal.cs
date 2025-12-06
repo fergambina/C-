@@ -9,9 +9,9 @@ namespace herencia3
     internal class Animal
     {
         //Metodos o funcionalidades
-        public virtual void comunicarse()
+        public virtual string comunicarse()
         {
-            Console.WriteLine("Ruido..ruido..ruido...");
+            return "Ruido..ruido..ruido...";
         }
     }
 }

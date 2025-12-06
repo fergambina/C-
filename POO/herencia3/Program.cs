@@ -28,7 +28,7 @@ namespace herencia3
             animales.Add(a1);
 
             Console.WriteLine("La cantidad de animales hasta el momento es: " + animales.Count);
-            Console.WriteLine("Eliminando animales de la lists...");
+            Console.WriteLine("Eliminando animales de la lista...");
 
             animales.Remove(g3);
             animales.Remove(g1);
@@ -36,7 +36,7 @@ namespace herencia3
 
             foreach (Animal item in animales)
             {
-                item.comunicarse();
+                Console.WriteLine(item.comunicarse());
             }
 
             Console.WriteLine("La cantidad de animales al final es: " + animales.Count);
