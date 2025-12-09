@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D67A2FFE-7D84-4700-A3DA-695CE23DA933}|herencia\\herencia.csproj|c:\\users\\usuario\\desktop\\c#\\poo\\herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67A2FFE-7D84-4700-A3DA-695CE23DA933}|herencia\\herencia.csproj|solutionrelative:herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67A2FFE-7D84-4700-A3DA-695CE23DA933}|herencia\\herencia.csproj|c:\\users\\usuario\\desktop\\c#\\poo\\herencia\\lider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67A2FFE-7D84-4700-A3DA-695CE23DA933}|herencia\\herencia.csproj|solutionrelative:herencia\\lider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB4DC8-8BA6-4C0F-AC15-06A4C186FAE8}|herencia2\\herencia2.csproj|c:\\users\\usuario\\desktop\\c#\\poo\\herencia2\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB4DC8-8BA6-4C0F-AC15-06A4C186FAE8}|herencia2\\herencia2.csproj|solutionrelative:herencia2\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67A2FFE-7D84-4700-A3DA-695CE23DA933}|herencia\\herencia.csproj|c:\\users\\usuario\\desktop\\c#\\poo\\herencia\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67A2FFE-7D84-4700-A3DA-695CE23DA933}|herencia\\herencia.csproj|solutionrelative:herencia\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67A2FFE-7D84-4700-A3DA-695CE23DA933}|herencia\\herencia.csproj|c:\\users\\usuario\\desktop\\c#\\poo\\herencia\\analistafuncional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67A2FFE-7D84-4700-A3DA-695CE23DA933}|herencia\\herencia.csproj|solutionrelative:herencia\\analistafuncional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5747337D-EC58-4EF5-BA28-FCFCDE365420}|herencia3\\herencia3.csproj|c:\\users\\usuario\\desktop\\c#\\poo\\herencia3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5747337D-EC58-4EF5-BA28-FCFCDE365420}|herencia3\\herencia3.csproj|solutionrelative:herencia3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,7 +35,7 @@
       "RelativeMoniker": "D:0:0:{5747337D-EC58-4EF5-BA28-FCFCDE365420}|herencia3\\herencia3.csproj|solutionrelative:herencia3\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5747337D-EC58-4EF5-BA28-FCFCDE365420}|herencia3\\herencia3.csproj|c:\\users\\usuario\\desktop\\c#\\poo\\herencia3\\flyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5747337D-EC58-4EF5-BA28-FCFCDE365420}|herencia3\\herencia3.csproj|C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia3\\flyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5747337D-EC58-4EF5-BA28-FCFCDE365420}|herencia3\\herencia3.csproj|solutionrelative:herencia3\\flyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,7 +43,7 @@
       "RelativeMoniker": "D:0:0:{5747337D-EC58-4EF5-BA28-FCFCDE365420}|herencia3\\herencia3.csproj|solutionrelative:herencia3\\tigre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5747337D-EC58-4EF5-BA28-FCFCDE365420}|herencia3\\herencia3.csproj|c:\\users\\usuario\\desktop\\c#\\poo\\herencia3\\canario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5747337D-EC58-4EF5-BA28-FCFCDE365420}|herencia3\\herencia3.csproj|C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia3\\canario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5747337D-EC58-4EF5-BA28-FCFCDE365420}|herencia3\\herencia3.csproj|solutionrelative:herencia3\\canario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -42,11 +62,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "Lider.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia\\Lider.cs",
+              "RelativeDocumentMoniker": "herencia\\Lider.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia\\Lider.cs",
+              "RelativeToolTip": "herencia\\Lider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T21:33:54.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnalistaFuncional.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia\\AnalistaFuncional.cs",
+              "RelativeDocumentMoniker": "herencia\\AnalistaFuncional.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia\\AnalistaFuncional.cs",
+              "RelativeToolTip": "herencia\\AnalistaFuncional.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T21:30:09.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia\\Program.cs",
+              "RelativeDocumentMoniker": "herencia\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia\\Program.cs",
+              "RelativeToolTip": "herencia\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T20:52:50.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia\\Persona.cs",
+              "RelativeDocumentMoniker": "herencia\\Persona.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia\\Persona.cs",
+              "RelativeToolTip": "herencia\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T20:52:15.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia2\\Auto.cs",
+              "RelativeDocumentMoniker": "herencia2\\Auto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia2\\Auto.cs",
+              "RelativeToolTip": "herencia2\\Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T20:52:00.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Canario.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia3\\Canario.cs",
               "RelativeDocumentMoniker": "herencia3\\Canario.cs",
@@ -54,12 +139,11 @@
               "RelativeToolTip": "herencia3\\Canario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T15:46:38.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T15:46:38.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Flyable.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia3\\Flyable.cs",
               "RelativeDocumentMoniker": "herencia3\\Flyable.cs",
@@ -67,12 +151,11 @@
               "RelativeToolTip": "herencia3\\Flyable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T15:43:58.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T15:43:58.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Tigre.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia3\\Tigre.cs",
               "RelativeDocumentMoniker": "herencia3\\Tigre.cs",
@@ -80,12 +163,11 @@
               "RelativeToolTip": "herencia3\\Tigre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T14:56:41.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T14:56:41.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Aguila.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia3\\Aguila.cs",
               "RelativeDocumentMoniker": "herencia3\\Aguila.cs",
@@ -93,12 +175,11 @@
               "RelativeToolTip": "herencia3\\Aguila.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T14:56:24.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T14:56:24.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Perro.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia3\\Perro.cs",
               "RelativeDocumentMoniker": "herencia3\\Perro.cs",
@@ -106,12 +187,11 @@
               "RelativeToolTip": "herencia3\\Perro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T14:54:31.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T14:54:31.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Gato.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia3\\Gato.cs",
               "RelativeDocumentMoniker": "herencia3\\Gato.cs",
@@ -123,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia3\\Animal.cs",
               "RelativeDocumentMoniker": "herencia3\\Animal.cs",
@@ -135,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\C#\\POO\\herencia3\\Program.cs",
               "RelativeDocumentMoniker": "herencia3\\Program.cs",

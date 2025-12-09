@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace herencia
 {
-    internal class Lider : Persona
+    static class Lider  //Esta clase no se puede instanciar, se puede usar
     {
+        public static string algo()
+        {
+            return "Hola";
+        }
     }
 }

@@ -10,6 +10,11 @@ namespace herencia
     {
         static void Main(string[] args)
         {
+            // No se puede instanciar: Persona p1 = new Persona();
+            Developer d1 = new Developer();
+            Lider.algo();
         }
+
+        //Las clases estaticas se usan para tener metodos de validaciones.
     }
 }

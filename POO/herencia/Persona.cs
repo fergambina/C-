@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace herencia
 {
-    internal class Persona
+    abstract class Persona //La defino como abstract para que no pueda ser instanciada. Si la marco como Sealed no puede ser heredada
     {
         public string Nombre { get; set; }
         public string Apellido { get; set; }

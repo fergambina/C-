@@ -8,5 +8,10 @@ namespace herencia2
 {
     internal class Auto : Vehiculo
     {
+
+        //Composicion 
+
+        //Agregacion
+        public Motor Moto { get; set; }
     }
 }
