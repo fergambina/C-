@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\C#\EjemploControles\formulario\bin\Debug\formulario.exe.config
+C:\Users\Usuario\Desktop\C#\EjemploControles\formulario\bin\Debug\formulario.exe
+C:\Users\Usuario\Desktop\C#\EjemploControles\formulario\bin\Debug\formulario.pdb
+C:\Users\Usuario\Desktop\C#\EjemploControles\formulario\obj\Debug\formulario.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\C#\EjemploControles\formulario\obj\Debug\formulario.Form1.resources
+C:\Users\Usuario\Desktop\C#\EjemploControles\formulario\obj\Debug\formulario.Properties.Resources.resources
+C:\Users\Usuario\Desktop\C#\EjemploControles\formulario\obj\Debug\formulario.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\C#\EjemploControles\formulario\obj\Debug\formulario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\EjemploControles\formulario\obj\Debug\formulario.exe
+C:\Users\Usuario\Desktop\C#\EjemploControles\formulario\obj\Debug\formulario.pdb
