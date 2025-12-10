@@ -53,6 +53,8 @@
             // 
             // txtNombre
             // 
+            this.txtNombre.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.txtNombre.Location = new System.Drawing.Point(207, 43);
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(200, 22);
@@ -60,21 +62,25 @@
             // 
             // btnAgregar
             // 
-            this.btnAgregar.Location = new System.Drawing.Point(52, 566);
+            this.btnAgregar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.btnAgregar.Location = new System.Drawing.Point(88, 537);
             this.btnAgregar.Name = "btnAgregar";
             this.btnAgregar.Size = new System.Drawing.Size(75, 23);
-            this.btnAgregar.TabIndex = 1;
+            this.btnAgregar.TabIndex = 9;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = true;
             this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
             // 
             // lwElementos
             // 
+            this.lwElementos.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.lwElementos.HideSelection = false;
-            this.lwElementos.Location = new System.Drawing.Point(52, 448);
+            this.lwElementos.Location = new System.Drawing.Point(88, 394);
             this.lwElementos.Name = "lwElementos";
-            this.lwElementos.Size = new System.Drawing.Size(235, 112);
-            this.lwElementos.TabIndex = 3;
+            this.lwElementos.Size = new System.Drawing.Size(355, 112);
+            this.lwElementos.TabIndex = 8;
             this.lwElementos.UseCompatibleStateImageBehavior = false;
             this.lwElementos.View = System.Windows.Forms.View.List;
             // 
@@ -98,10 +104,12 @@
             // 
             // txtApellido
             // 
+            this.txtApellido.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.txtApellido.Location = new System.Drawing.Point(207, 69);
             this.txtApellido.Name = "txtApellido";
             this.txtApellido.Size = new System.Drawing.Size(200, 22);
-            this.txtApellido.TabIndex = 6;
+            this.txtApellido.TabIndex = 1;
             // 
             // lbFechaNacimiento
             // 
@@ -114,10 +122,12 @@
             // 
             // dtpFechaNacimiento
             // 
+            this.dtpFechaNacimiento.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.dtpFechaNacimiento.Location = new System.Drawing.Point(207, 100);
             this.dtpFechaNacimiento.Name = "dtpFechaNacimiento";
             this.dtpFechaNacimiento.Size = new System.Drawing.Size(200, 22);
-            this.dtpFechaNacimiento.TabIndex = 8;
+            this.dtpFechaNacimiento.TabIndex = 2;
             // 
             // ckbBasquet
             // 
@@ -125,7 +135,7 @@
             this.ckbBasquet.Location = new System.Drawing.Point(207, 139);
             this.ckbBasquet.Name = "ckbBasquet";
             this.ckbBasquet.Size = new System.Drawing.Size(155, 20);
-            this.ckbBasquet.TabIndex = 9;
+            this.ckbBasquet.TabIndex = 3;
             this.ckbBasquet.Text = "Te gusta el basquet?";
             this.ckbBasquet.UseVisualStyleBackColor = true;
             // 
@@ -174,13 +184,14 @@
             // 
             // gbxTipo
             // 
+            this.gbxTipo.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.gbxTipo.Controls.Add(this.rbtMaggle);
             this.gbxTipo.Controls.Add(this.rbtWizard);
             this.gbxTipo.Controls.Add(this.rdbSquibs);
             this.gbxTipo.Location = new System.Drawing.Point(68, 165);
             this.gbxTipo.Name = "gbxTipo";
             this.gbxTipo.Size = new System.Drawing.Size(415, 64);
-            this.gbxTipo.TabIndex = 14;
+            this.gbxTipo.TabIndex = 4;
             this.gbxTipo.TabStop = false;
             this.gbxTipo.Text = "Tipo";
             // 
@@ -195,11 +206,13 @@
             // 
             // cboColor
             // 
+            this.cboColor.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.cboColor.FormattingEnabled = true;
             this.cboColor.Location = new System.Drawing.Point(207, 237);
             this.cboColor.Name = "cboColor";
             this.cboColor.Size = new System.Drawing.Size(200, 24);
-            this.cboColor.TabIndex = 16;
+            this.cboColor.TabIndex = 5;
             // 
             // lblNumeroFavorito
             // 
@@ -212,18 +225,24 @@
             // 
             // numNumeroFavorito
             // 
+            this.numNumeroFavorito.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.numNumeroFavorito.Location = new System.Drawing.Point(207, 274);
             this.numNumeroFavorito.Name = "numNumeroFavorito";
             this.numNumeroFavorito.Size = new System.Drawing.Size(200, 22);
-            this.numNumeroFavorito.TabIndex = 18;
+            this.numNumeroFavorito.TabIndex = 6;
             // 
             // btnVerPerfil
             // 
+            this.btnVerPerfil.FlatAppearance.BorderColor = System.Drawing.Color.Green;
+            this.btnVerPerfil.FlatAppearance.BorderSize = 2;
+            this.btnVerPerfil.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.btnVerPerfil.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnVerPerfil.Location = new System.Drawing.Point(88, 329);
             this.btnVerPerfil.Name = "btnVerPerfil";
-            this.btnVerPerfil.Size = new System.Drawing.Size(90, 46);
-            this.btnVerPerfil.TabIndex = 19;
-            this.btnVerPerfil.Text = "Ver Perfil";
+            this.btnVerPerfil.Size = new System.Drawing.Size(105, 46);
+            this.btnVerPerfil.TabIndex = 7;
+            this.btnVerPerfil.Text = "Ver &Perfil";
             this.btnVerPerfil.UseVisualStyleBackColor = true;
             this.btnVerPerfil.Click += new System.EventHandler(this.btnVerPerfil_Click);
             // 
@@ -231,7 +250,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 601);
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.ClientSize = new System.Drawing.Size(526, 601);
             this.Controls.Add(this.btnVerPerfil);
             this.Controls.Add(this.numNumeroFavorito);
             this.Controls.Add(this.lblNumeroFavorito);
@@ -248,7 +268,11 @@
             this.Controls.Add(this.lwElementos);
             this.Controls.Add(this.btnAgregar);
             this.Controls.Add(this.txtNombre);
+            this.MaximizeBox = false;
+            this.MaximumSize = new System.Drawing.Size(872, 654);
+            this.MinimumSize = new System.Drawing.Size(544, 648);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.gbxTipo.ResumeLayout(false);

@@ -8,3 +8,4 @@ C:\Users\Usuario\Desktop\C#\EjemploControles\ejemplo1\obj\Debug\ejemplo1.csproj.
 C:\Users\Usuario\Desktop\C#\EjemploControles\ejemplo1\obj\Debug\ejemplo1.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\Desktop\C#\EjemploControles\ejemplo1\obj\Debug\ejemplo1.exe
 C:\Users\Usuario\Desktop\C#\EjemploControles\ejemplo1\obj\Debug\ejemplo1.pdb
+C:\Users\Usuario\Desktop\C#\EjemploControles\ejemplo1\obj\Debug\ejemplo1.frmPrincipal.resources
